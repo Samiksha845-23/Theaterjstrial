@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/3js"
+		},
+		{
+			"path": "../../02-transform-objects_final"
+		},
+		{
+			"path": "../../02-transform-objects"
+		},
+		{
+			"path": "../../03-animations"
+		},
+		{
+			"path": "../../05-OrbitControls"
+		},
+		{
+			"path": "../../07-geometry"
+		},
+		{
+			"path": "../../08-debug-ui"
+		},
+		{
+			"path": "../../09-textures"
+		},
+		{
+			"path": "../../10-materials"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
